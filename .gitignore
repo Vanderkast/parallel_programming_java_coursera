@@ -1,0 +1,7 @@
+{
+	"client_id": "university-project",
+	"client_secret": "902be135-2bdc-435c-b817-0be266f84258",
+	"grant_type": "client_credentials",
+	"password": "123",
+	"username": "Vanderkast"
+}
